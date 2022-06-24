@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Venslore(Emre). :blush:
 
-![](https://komarev.com/ghpvc/?username=vCamilxe&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Venslor&color=blueviolet)
 
 ## Java Developer ┃ 4 Years
 
