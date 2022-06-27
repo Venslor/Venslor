@@ -6,7 +6,7 @@
 
 ## Java Developer ┃ 4 Years
 
-## Discord ┃ Venslore#5862
+## Discord ┃ Venslore#9976
 
 
 ### Reach out to me
