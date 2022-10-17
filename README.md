@@ -9,13 +9,19 @@
 ## Discord ┃ Venslore#0001
 
 Languages: 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 Databases: 
 ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 📚 Experience:
+- ColdNetwork colpvp.com (Developer)
+- DynamicPvP dynamicpvp.net (Developer)
+- HazelMC hazelmc.com (Developer)
+- ConaxGames conaxgames.com (Developer)
+- PvPRetro pvpretro.net (Developer)
+- PvPCage pvpcage.club (Developer)
 
 <br />
 
