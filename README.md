@@ -19,10 +19,10 @@ Databases:
 - ColdNetwork colpvp.com (Developer)
 - DynamicPvP dynamicpvp.net (Developer)
 - HazelMC hazelmc.com (Developer)
-- ConaxGames conaxgames.com (Developer)
+- ConaxGames conaxgames.com (Trial Dev)
 - PvPRetro pvpretro.net (Developer)
 - PvPCage pvpcage.club (Developer)
-
+- Phoenix Development (Developer)
 <br />
 
 <details>
