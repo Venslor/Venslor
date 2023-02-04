@@ -6,7 +6,7 @@
 
 ## Java Developer ┃ 3 Years
 
-## Discord ┃ Venslore#0001
+## Discord ┃ Venslore#2083
 
 Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
