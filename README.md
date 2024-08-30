@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Venslore&color=blueviolet)
 
-## Java Developer ┃ 4 Years
+## Java Developer ┃ 5 Years
 
-## Discord ┃ Venslore#2083
+## Discord ┃ @venslore
 
 Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
