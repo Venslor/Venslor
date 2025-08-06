@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Venslore&color=blueviolet)
 
-## Java Developer ┃ 5 Years
+## Java Developer ┃ 7 Years
 
 ## Discord ┃ @venslore
 
